@@ -1,0 +1,68 @@
+{
+  "id": "HONDA",
+  "name": "Honda",
+  "about": "Welcome to Honda!\n\nSince our inception, Honda has been committed to advancing mobility and improving lives around the globe. Our innovative spirit drives us to create products that enhance the joy of mobility and contribute to a sustainable future.\n\nFrom our pioneering automobiles and motorcycles to our cutting-edge power equipment, Honda continuously strives to deliver quality, reliability, and innovative solutions that meet the needs of our customers. We take pride in our heritage and look forward to shaping the future with you.\n\nAt Honda, we believe in \"The Power of Dreams.\" Our mission is to turn dreams into reality through technological advancements and unwavering dedication to quality.\n\nThank you for choosing Honda.",
+  "icon": "simple-icons:honda",
+  "color": "#DA251D",
+  "carousel": [
+    {
+      "alt": "CR-V",
+      "url": "https://images.unsplash.com/photo-1519641471654-76ce0107ad1b?q=80&w=2071&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "alt": "Staring Wheel",
+      "url": "https://images.unsplash.com/photo-1577436864274-bcd551d82b6b?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "alt": "Type R",
+      "url": "https://images.unsplash.com/photo-1605756580041-21312e9fb2bc?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    }
+  ],
+  "user": {
+    "name": "Honda",
+    "email": "honda@wheelshub.store",
+    "wallet": 100000
+  },
+  "vehicles": [
+    {
+      "car_id": "CIVIC",
+      "image_url": "https://www.carsized.com/resources/honda/civic/s/2021/sm_238129136_honda-civic-2021-side-view_4x.webp",
+      "model": "Civic",
+      "price": 25000,
+      "stock": 15,
+      "tenant_id": "HONDA"
+    },
+    {
+      "car_id": "CR-V",
+      "image_url": "https://www.carsized.com/resources/honda/cr-v/d/2022/sm_282135141_honda-cr-v-2022-side-view_4x.webp",
+      "model": "CR-V",
+      "price": 35000,
+      "stock": 8,
+      "tenant_id": "HONDA"
+    },
+    {
+      "car_id": "ACCORD",
+      "image_url": "https://www.carsized.com/resources/honda/accord/d/2023/sl_247136160_honda-accord-2023-side-view_4x.webp",
+      "model": "Accord",
+      "price": 28000,
+      "stock": 12,
+      "tenant_id": "HONDA"
+    },
+    {
+      "car_id": "PILOT",
+      "image_url": "https://www.carsized.com/resources/honda/pilot/d/2022/sl_300141155_honda-pilot-2022-side-view_4x.webp",
+      "model": "Pilot",
+      "price": 20000,
+      "stock": 20,
+      "tenant_id": "HONDA"
+    },
+    {
+      "car_id": "ODYSSEY",
+      "image_url": "https://www.carsized.com/resources/honda/odyssey/d-us/2017/sl_287123168_honda-odyssey-2017-side-view_4x.webp",
+      "model": "Odyssey",
+      "price": 40000,
+      "stock": 5,
+      "tenant_id": "HONDA"
+    }
+  ]
+}
